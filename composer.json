@@ -1,0 +1,37 @@
+{
+  "name": "bluemvc/bluemvc-website",
+  "description": "Bare template for a website using the BlueMvc PHP framework",
+  "homepage": "https://bluemvc.com/",
+  "license": "Public domain",
+  "type": "project",
+  "keywords": [
+    "blue",
+    "mvc",
+    "framework",
+    "php",
+    "bare",
+    "template",
+    "website"
+  ],
+  "authors": [
+    {
+      "name": "Michael Hall",
+      "homepage": "https://michaelhall.se/"
+    }
+  ],
+  "require": {
+    "bluemvc/bluemvc": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "Application\\": "Application"
+    }
+  },
+  "config": {
+    "preferred-install": {
+      "*": "dist"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}

@@ -1,2 +1,3 @@
-# bluemvc-website
-Bare template for a website using the BlueMvc PHP framework
+# BlueMvc Website
+
+This project is under construction and is not yet complete. Please check back later.
