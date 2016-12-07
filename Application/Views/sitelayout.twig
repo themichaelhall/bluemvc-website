@@ -6,6 +6,13 @@
     <title>{{ ViewData.Title }}</title>
 </head>
 <body>
-{% block content %}{% endblock %}
+<div class="menu">
+    <ul>
+        <li><a href="/">Home</a></li>
+    </ul>
+</div>
+<div class="main">
+    {% block content %}{% endblock %}
+</div>
 </body>
 </html>
