@@ -17,7 +17,7 @@ class IndexController extends Controller
      */
     public function indexAction()
     {
-        $this->setViewData('Title', 'My website');
+        $this->setViewItem('Title', 'My website');
 
         return new View();
     }
