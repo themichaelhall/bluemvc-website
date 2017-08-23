@@ -2,3 +2,4 @@ RewriteEngine on
 RewriteCond %{REQUEST_URI} !^/public/(.+)$
 RewriteCond %{REQUEST_URI} !^/index.php$
 RewriteRule ^(.+)$ /index.php [NC,L]
+SetEnv BLUEMVC_DEBUG 1
