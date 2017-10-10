@@ -11,5 +11,5 @@ $application = new Application();
 ApplicationSetup::setup($application);
 
 $request = new Request();
-$response = new Response($request);
+$response = new Response();
 $application->run($request, $response);
