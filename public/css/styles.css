@@ -27,10 +27,18 @@ h1 {
     margin: .3em;
 }
 
-p {
+p, ul {
     font-size: 1em;
     line-height: 1.4;
     margin: 1.2em;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    line-height: 1.4;
 }
 
 a {
@@ -49,7 +57,7 @@ a:hover {
 
 .menu ul {
     list-style-type: none;
-    margin-left: 2.4em;
+    margin: 0 0 0 2.4em;
     overflow: hidden;
 }
 
