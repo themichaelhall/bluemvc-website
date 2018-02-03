@@ -20,7 +20,7 @@
     }
   ],
   "require": {
-    "bluemvc/bluemvc": "dev-master"
+    "bluemvc/bluemvc": "~1.0"
   },
   "autoload": {
     "psr-4": {
@@ -31,7 +31,5 @@
     "preferred-install": {
       "*": "dist"
     }
-  },
-  "minimum-stability": "dev",
-  "prefer-stable": true
+  }
 }
