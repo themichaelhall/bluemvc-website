@@ -2,7 +2,7 @@
   "name": "bluemvc/bluemvc-website",
   "description": "Bare template for a website using the BlueMvc PHP framework",
   "homepage": "https://bluemvc.com/",
-  "license": "Public domain",
+  "license": "Unlicense",
   "type": "project",
   "keywords": [
     "blue",
