@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Application\Setup;
 
 use Application\Controllers\IndexController;
@@ -18,7 +20,7 @@ class ApplicationSetup
      *
      * @param ApplicationInterface $application The application.
      */
-    public static function setup(ApplicationInterface $application)
+    public static function setup(ApplicationInterface $application): void
     {
         // Set up view handling.
         $application->addViewRenderer(new TwigViewRenderer());
