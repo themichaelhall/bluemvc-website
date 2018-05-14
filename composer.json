@@ -20,7 +20,8 @@
     }
   ],
   "require": {
-    "bluemvc/bluemvc": "~1.0"
+    "php": ">=7.1",
+    "bluemvc/bluemvc": "^2.0"
   },
   "autoload": {
     "psr-4": {
