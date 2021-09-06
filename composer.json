@@ -21,7 +21,11 @@
   ],
   "require": {
     "php": ">=7.1",
-    "bluemvc/bluemvc": "^2.0"
+    "bluemvc/bluemvc-core": "^2.2",
+    "bluemvc/bluemvc-twig": "^2.2",
+    "bluemvc/bluemvc-forms": "^2.2",
+    "bluemvc/bluemvc-api": "^2.2",
+    "bluemvc/bluemvc-fakes": "^2.2"
   },
   "autoload": {
     "psr-4": {

@@ -1,4 +1,5 @@
 ## Unreleased
+- Updated BlueMvc version to 2.2.
 
 ## [2.1.0] - 2018-05-24
 - Added some form element styles.
