@@ -4,7 +4,6 @@
 
 # BlueMvc Website
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/d9952cd938edca1e96e7/maintainability)](https://codeclimate.com/github/themichaelhall/bluemvc-website/maintainability)
 [![StyleCI](https://styleci.io/repos/68635756/shield?style=flat)](https://styleci.io/repos/68635756)
 [![License](https://poser.pugx.org/bluemvc/bluemvc-website/license)](https://packagist.org/packages/bluemvc/bluemvc-website)
 [![Latest Stable Version](https://poser.pugx.org/bluemvc/bluemvc-website/v/stable)](https://packagist.org/packages/bluemvc/bluemvc-website)
