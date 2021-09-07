@@ -1,5 +1,6 @@
 ## Unreleased
 - Updated BlueMvc version to 2.2.
+- Updated PHP requirement to 7.3.
 
 ## [2.1.0] - 2018-05-24
 - Added some form element styles.

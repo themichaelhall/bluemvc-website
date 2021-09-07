@@ -13,7 +13,7 @@ Bare template for a website using the [BlueMvc PHP framework](https://github.com
 
 ## Requirements
 
-- PHP >= 7.1
+- PHP >= 7.3
 
 ## Install with Composer
 

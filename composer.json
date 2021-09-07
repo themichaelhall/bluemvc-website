@@ -20,7 +20,7 @@
     }
   ],
   "require": {
-    "php": ">=7.1",
+    "php": ">=7.3",
     "bluemvc/bluemvc-core": "^2.2",
     "bluemvc/bluemvc-twig": "^2.2",
     "bluemvc/bluemvc-forms": "^2.2",
