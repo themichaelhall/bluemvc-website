@@ -24,7 +24,7 @@ class ApplicationSetup
     {
         // Set up view handling.
         $application->addViewRenderer(new TwigViewRenderer());
-        $application->setViewPath(FilePath::parseAsDirectory('Application/Views'));
+        $application->setViewPath(FilePath::parseAsDirectory('../Application/Views'));
 
         // Set up routes.
         $application->addRoute(new Route('', IndexController::class));
