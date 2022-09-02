@@ -1,4 +1,5 @@
 ## Unreleased
+- Changed required PHP version to >= 8.0.
 
 ## [2.2.0] - 2021-12-16
 - Updated BlueMvc version to 2.2.
