@@ -17,7 +17,7 @@ class IndexController extends Controller
      *
      * @return View The view for this action.
      */
-    public function indexAction()
+    public function indexAction(): View
     {
         $this->setViewItem('Title', 'My website');
 
