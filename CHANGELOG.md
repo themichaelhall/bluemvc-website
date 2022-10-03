@@ -1,3 +1,5 @@
+## Unreleased
+
 ## [3.0.0] - 2022-10-03
 - Changed required BlueMvc version to 3.0.
 - Changed required PHP version to >= 8.0.
