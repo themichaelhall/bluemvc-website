@@ -21,11 +21,11 @@
   ],
   "require": {
     "php": ">=8.0",
-    "bluemvc/bluemvc-core": "dev-develop",
-    "bluemvc/bluemvc-twig": "dev-develop",
-    "bluemvc/bluemvc-forms": "dev-develop",
-    "bluemvc/bluemvc-api": "dev-develop",
-    "bluemvc/bluemvc-fakes": "dev-develop"
+    "bluemvc/bluemvc-core": "^3.0",
+    "bluemvc/bluemvc-twig": "^3.0",
+    "bluemvc/bluemvc-forms": "^3.0",
+    "bluemvc/bluemvc-api": "^3.0",
+    "bluemvc/bluemvc-fakes": "^3.0"
   },
   "autoload": {
     "psr-4": {
